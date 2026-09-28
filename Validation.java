@@ -6,6 +6,7 @@ public class Validation{
                 throw e;
             }else{
                 System.out.println("Valid Age ");
+                System.out.print(("Your can continue"));
             }
     }
 }
